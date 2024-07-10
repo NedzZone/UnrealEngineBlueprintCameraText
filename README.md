@@ -6,7 +6,7 @@ This project demonstrates how to add text to a camera in Unreal Engine using Blu
 
 Here is a short video demonstrating the game mode:
 
-![BP_CamTextIntegration_GameMode.mp4](BP_CamTextIntegration_GameMode.mp4)
+![BP_CamTextIntegration_GameMode.gif](BP_CamTextIntegration_GameMode.gif)
 
 ## Overview
 
